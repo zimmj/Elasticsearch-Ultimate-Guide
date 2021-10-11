@@ -34,5 +34,5 @@ To understand the different ways to tokenize, it is best to try them out by them
 
 #### Practical example
 
-* [Word oriented tokenizer](./examples/Word-Tokenizer)
-* [N-Gram Tokenizer](./examples/Ngram-Tokenizer)
+* [Word oriented tokenizer](./examples/Word-Tokenizer.md)
+* [N-Gram Tokenizer](./examples/Ngram-Tokenizer.md)

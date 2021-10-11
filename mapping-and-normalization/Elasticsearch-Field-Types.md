@@ -72,7 +72,7 @@ It will be transformed into something like:
 Therefore, all the values still can be matched, but we lose all the meta information about the field in the object.
 This benefits us, that we can map an entire object to one field, regardless how many unique fields it has.
 So we can stop a mapping excess.
-[Example how to use.](./examples/Flattened-Field)
+[Example how to use.](./examples/Flattened-Field.md)
 
 ### [Nested type](https://www.elastic.co/guide/en/elasticsearch/reference/current/nested.html)
 
@@ -112,7 +112,7 @@ The analyzer is parsing the text and transforms it to list of individual terms, 
 
 This process allows Elasticsearch to make complex partial search on text.
 
-The most important Parameters are [analyzers](./Analyzer):
+The most important Parameters are [analyzers](./Analyzer.md):
 
 #### analyzer
 

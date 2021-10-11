@@ -57,7 +57,7 @@ These settings try to keep the mapping in bay.
 
 ### Practical examples
 
-[Dynamic Mapping Exercise](./examples/Dynamic-Mapping-Exercise)
+[Dynamic Mapping Exercise](./examples/Dynamic-Mapping-Exercise.md)
 
 ## Explicit Mapping [Elastic Guide](https://www.elastic.co/guide/en/elasticsearch/reference/7.14/explicit-mapping.html)
 
@@ -112,7 +112,7 @@ To Change a mapping on runtime, we need to create a new Index, as shown above an
 This is described in [Change Mapping in Production](Link-to-docu-todo)
 
 To create an explicit mapping it is important to understand the different field types given by Elasticsearch.
-The field types are described in [Elasticsearch Field Types](./Elasticsearch-Field-Types).
+The field types are described in [Elasticsearch Field Types](./Elasticsearch-Field-Types.md).
 
 #### Control the field
 

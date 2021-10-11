@@ -52,9 +52,9 @@ As above explained, they are used to unify the appearance of a text and enable t
 
 An analyzer consist of three different part:
 
-1. [Tokenizers](./Tokenizer)
-2. [Character-Filter](./Character-Filter)
-3. [Token Filters](./Token-Filters)
+1. [Tokenizers](./Tokenizer.md)
+2. [Character-Filter](./Character-Filter.md)
+3. [Token Filters](./Token-Filters.md)
 
 These three parts are run as the order mentioned.
 An analyzer always needs a Tokenizer, but might have Filters.

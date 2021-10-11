@@ -7,7 +7,7 @@ It's used to denormalize the data in Elasticsearch, with less work on changing t
 
 If we add following document to a new index, we will get a dynamic mapping.
 With this mapping all fields can be matched against.
-[Delete old index](./Deelte-Index)
+[Delete old index](./Deelte-Index.md)
 
 ```json
 POST new_idx/_doc
@@ -41,7 +41,7 @@ We will get back the indexed document.
 ## Explicit Mapping
 
 To show the different, we will create an index with following mapping:
-[Delete old index](./Deelte-Index)
+[Delete old index](./Deelte-Index.md)
 
 ```json
 PUT new_idx
